@@ -2,6 +2,8 @@
 
 [![Socket Badge](https://badge.socket.dev/npm/package/gerepost-filemanager/1.0.5)](https://badge.socket.dev/npm/package/gerepost-filemanager/1.0.5)
 [![NPM Downloads](https://img.shields.io/npm/dt/gerepost-filemanager)](https://www.npmjs.com/package/gerepost-filemanager)
+[![GitHub Stars](https://img.shields.io/github/stars/New-Creatof-Of-Htmls-By-Gemini/Gerepost-File-manager?style=for-the-badge&logo=github)](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Gerepost-File-manager/stargazers)
+
 
 
 Мощный, быстрый и стильный консольный файловый менеджер (TUI) для среды **Termux** на Android и облачных сред разработки (вроде **Replit**).
