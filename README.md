@@ -6,6 +6,7 @@
 [![Telegram Channel](https://img.shields.io/badge/Telegram-gerepost__fm-26A5E4?logo=telegram&logoColor=white)](https://t.me/gerepost_fm)
 [![NPM Last Update](https://img.shields.io/npm/last-update/gerepost-filemanager)](https://www.npmjs.com/package/gerepost-filemanager)
 [![FunPay Profile](https://img.shields.io/badge/FunPay-Gribnoy1Broshka1Shop-FF7000?style=flat&logo=shopware&logoColor=white)](https://funpay.com/users/20705355/)
+[![NPM Version](https://img.shields.io/npm/v/gerepost-filemanager?color=cb3837&logo=npm)](https://www.npmjs.com/package/gerepost-filemanager)
 
 
 
