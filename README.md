@@ -8,8 +8,7 @@
 [![FunPay Profile](https://img.shields.io/badge/FunPay-Gribnoy1Broshka1Shop-FF7000?style=flat&logo=shopware&logoColor=white)](https://funpay.com/users/20705355/)
 [![NPM Version](https://img.shields.io/npm/v/gerepost-filemanager?color=cb3837&logo=npm)](https://www.npmjs.com/package/gerepost-filemanager)
 [![Anti Piracy](https://img.shields.io/badge/Code-No%20Unauthorized%20Copy-critical?logo=shield)](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Gerepost-File-manager)
-
-
+[![DMCA Protected](https://img.shields.io/badge/DMCA-PROTECTED-blue?logo=dmca&logoColor=white)](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Gerepost-File-manager)
 
 
 
