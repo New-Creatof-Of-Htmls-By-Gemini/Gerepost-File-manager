@@ -3,6 +3,8 @@
 [![Socket Badge](https://badge.socket.dev/npm/package/gerepost-filemanager/1.0.5)](https://badge.socket.dev/npm/package/gerepost-filemanager/1.0.5)
 [![NPM Downloads](https://img.shields.io/npm/dt/gerepost-filemanager)](https://www.npmjs.com/package/gerepost-filemanager)
 [![GitHub Stars](https://img.shields.io/github/stars/New-Creatof-Of-Htmls-By-Gemini/Gerepost-File-manager)](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Gerepost-File-manager/stargazers)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-gerepost__fm-26A5E4?logo=telegram&logoColor=white)](https://t.me/gerepost_fm)
+
 
 
 
