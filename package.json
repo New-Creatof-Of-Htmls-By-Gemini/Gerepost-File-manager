@@ -1,0 +1,23 @@
+{
+  "name": "gerepost-filemanager",
+  "version": "1.0.4",
+  "description": "A clean console file manager for Termux and Replit environments.",
+  "main": "server.js",
+  "bin": {
+    "filemanager": "./server.js"
+  },
+  "keywords": [
+    "termux",
+    "filemanager",
+    "tui",
+    "cli",
+    "android",
+    "replit"
+  ],
+  "author": "webqemu",
+  "license": "MIT",
+  "dependencies": {
+    "telebot": "^1.4.1"
+  }
+}
+
