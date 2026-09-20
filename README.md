@@ -1,6 +1,8 @@
 # GEREPOST-FILEMANAGER (GEREPOST FM) 🚀
 
 [![Socket Badge](https://badge.socket.dev/npm/package/gerepost-filemanager/1.0.5)](https://badge.socket.dev/npm/package/gerepost-filemanager/1.0.5)
+[![NPM Downloads](https://img.shields.io/npm/dt/gerepost-filemanager)](https://www.npmjs.com/package/gerepost-filemanager)
+
 
 Мощный, быстрый и стильный консольный файловый менеджер (TUI) для среды **Termux** на Android и облачных сред разработки (вроде **Replit**).
 
