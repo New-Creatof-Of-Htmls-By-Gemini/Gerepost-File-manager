@@ -5,10 +5,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/New-Creatof-Of-Htmls-By-Gemini/Gerepost-File-manager)](https://github.com/New-Creatof-Of-Htmls-By-Gemini/Gerepost-File-manager/stargazers)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-gerepost__fm-26A5E4?logo=telegram&logoColor=white)](https://t.me/gerepost_fm)
 [![NPM Last Update](https://img.shields.io/npm/last-update/gerepost-filemanager)](https://www.npmjs.com/package/gerepost-filemanager)
-[![FunPay Profile](https://img.shields.io/badge/FunPay-Gribnoy1Broshka1Shop-FF7000?style=flat&logo=shopware&logoColor=white)](https://funpay.com/users/Gribnoy1Broshka1Shop/)
-
-
-
+[![FunPay Profile](https://img.shields.io/badge/FunPay-Gribnoy1Broshka1Shop-FF7000?style=flat&logo=shopware&logoColor=white)](https://funpay.com/users/20705355/)
 
 
 
@@ -83,17 +80,16 @@ source ~/.bashrc
 * `Ctrl + E` — Действия с файлами
 * `Enter` — Открыть папку / Зайти в директорию
 * `Ctrl + C` — Выход из файлового менеджера
-
----
-
-## 👥 Автор
-Разработчик: **webqemu** 
-
 ## 🛒 Услуги и Поддержка автора (FunPay)
 
 Хотите заказать уникальную генерацию картинок, видео или музыки от автора проекта? Или желаете поддержать разработку **Gerepost FM PRO**? 
 
 Посетите мой официальный профиль на FunPay, где можно приобрести PRO-версию, DLC или заказать кастомный медиа-контент:
 
-[![FunPay Profile](https://img.shields.io/badge/FunPay-Gribnoy1Broshka1Shop-FF7000?style=flat&logo=shopware&logoColor=white)](https://funpay.com/users/Gribnoy1Broshka1Shop/)
+[![FunPay Profile](https://img.shields.io/badge/FunPay-Gribnoy1Broshka1Shop-FF7000?style=flat&logo=shopware&logoColor=white)](https://funpay.com/users/20705355/)
 
+
+---
+
+## 👥 Автор
+Разработчик: **webqemu** 
